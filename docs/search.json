@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benise Limon",
+    "section": "",
+    "text": "Benise Limon is an undergraduate student at the University of California, Santa Barbara. She is pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. She hopes to have a career in spatial planning for large-scale renewable energy development."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +14,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Benise Limon",
-    "section": "",
-    "text": "---\n\nlibrary(here)\n\nhere() starts at /Users/beniselimon/GitHub/beniselimonwebsite\n\n\n\ntitle: “Benise Limon” image: (here/IMG_7739.png) about: 2 template: trestles 3 image-shape: round image-width: 23em 4 links: 4 links: - text: LinkedIn href: https://www.linkedin.com/in/beniselimon/ - text: GitHub href: https://github.com/beniselimon - text: Email href: mailto:beniselimon@ucsb.edu"
+    "section": "Education",
+    "text": "Education\nUniversity of California, Santa Barbara | Santa Barbara, CA B.S. in Environmental Studies | Aug 2020 - June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Benise Limon",
+    "section": "Experience",
+    "text": "Experience\nDeloitte | Incoming Sustainability & ESG Intern | Summer 2023\nSanta Barbara County Air Pollution Control District | Compliance Intern | Apr 2022 - Present\nEnvironmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022"
   }
 ]
