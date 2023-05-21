@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Benise Limon",
     "section": "",
-    "text": "Benise Limon is an undergraduate student at the University of California, Santa Barbara. She is pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. She hopes to have a career in spatial planning for large-scale renewable energy development."
+    "text": "I’m Benise Limon, an undergraduate student at the University of California, Santa Barbara. I’m pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. I hope to have a career in spatial planning for large-scale renewable energy development."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,40 @@
     "title": "Benise Limon",
     "section": "Experience",
     "text": "Experience\nDeloitte | Incoming Sustainability & ESG Intern | Summer 2023\nSanta Barbara County Air Pollution Control District | Compliance Intern | Apr 2022 - Present\nEnvironmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022"
+  },
+  {
+    "objectID": "maps.html",
+    "href": "maps.html",
+    "title": "Maps",
+    "section": "",
+    "text": "I have always been fascinated by geography and the importance of “where”. Decisions from where should I get coffee today, or where should I sit in the library, to where should I live after graduation. I find “where” intriguing because you have to consider so many factors beyond location to make the most suitable choice. For this reason, I chose to minor in Spatial Science and complete the Geographic Information Science (GIS) series offered at UC Santa Barbara. I enjoy using GIS to understand the why a phenomena takes place where it does."
+  },
+  {
+    "objectID": "maps.html#suitability-analysis-of-a-coffee-shop-in-santa-barbara",
+    "href": "maps.html#suitability-analysis-of-a-coffee-shop-in-santa-barbara",
+    "title": "Maps",
+    "section": "Suitability Analysis of a Coffee Shop in Santa Barbara",
+    "text": "Suitability Analysis of a Coffee Shop in Santa Barbara\nSuitability models can help visualize optimal locations using spatial analysis. I created a suitability model using the Model Builder using a weighted sum analysis for distance to existing cafes in Santa Barbara and distance to roads. The farther away a potential site was to an existing cage, and closer it was to a road indicated the most suitable location for a cafe. In the map, the highest value was in the mountains in Santa Barbara, because it was far from the cafes and close to the roads. The three parcels with the highest values are shown in the dark purple area."
+  },
+  {
+    "objectID": "maps.html#visualizing-deaths-in-soho-central-london-during-the-cholera-outbreak",
+    "href": "maps.html#visualizing-deaths-in-soho-central-london-during-the-cholera-outbreak",
+    "title": "Maps",
+    "section": "Visualizing deaths in SoHo, Central London During the Cholera Outbreak",
+    "text": "Visualizing deaths in SoHo, Central London During the Cholera Outbreak\nThe spatial component of a problem can help us understand why some areas are more impacted than others. In this map, I used spatial statistics to understand the highest density of deaths and the relationship between deaths and locations of pumps. This map shows deaths are clustered around one pump, indicating this pump may be contaminated and contributing to the high death counts in the area."
+  },
+  {
+    "objectID": "maps.html#spatial-statistics-for-deaths-in-soho-central-london-during-the-cholera-outbreak",
+    "href": "maps.html#spatial-statistics-for-deaths-in-soho-central-london-during-the-cholera-outbreak",
+    "title": "Maps",
+    "section": "Spatial statistics for deaths in SoHo, Central London During the Cholera Outbreak",
+    "text": "Spatial statistics for deaths in SoHo, Central London During the Cholera Outbreak\nThe spatial component of a problem can help us understand why some areas are more impacted than others. In this map, I used spatial statistics to understand the highest density of deaths and the relationship between deaths and locations of pumps. This map shows deaths are clustered around one pump, indicating this pump may be contaminated and contributing to the high death counts in the area."
+  },
+  {
+    "objectID": "maps.html#home-range-movement-visualization",
+    "href": "maps.html#home-range-movement-visualization",
+    "title": "Maps",
+    "section": "Home Range Movement Visualization",
+    "text": "Home Range Movement Visualization\nMovement data is important to analyze to understand spatial patterns of humans or animals. This map visualizes the movement of a mother tiger and one young tiger and how their home ranges change and overlap as the young tiger grows older. In the first period of measured data, September to October of 2019, there was high overlap between the mother and young tiger. As the time went on, by the next set of months, November to December of 2019, The range of the mother expanded more and the young range expanded slightly. From January to February the range of the mother expanded more and she went much closer to the water and the young did not move much, the mother and young had significantly less overlap. In the last recorded period, March to April, the mother stayed closer to the water and the young moved closer to the water as well so there was more overlap than January to February but less than the data from 2019."
   }
 ]

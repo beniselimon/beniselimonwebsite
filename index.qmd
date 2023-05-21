@@ -2,7 +2,7 @@
 title: "Benise Limon"
 image: IMG_7739.png
 about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 15em
   links:
@@ -13,8 +13,9 @@ about:
     - text: Email
       href: mailto:beniselimon@ucsb.edu
 ---
+## Hello! 
 
-Benise Limon is an undergraduate student at the University of California, Santa Barbara. She is pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. She hopes to have a career in spatial planning for large-scale renewable energy development. 
+I'm Benise Limon, an undergraduate student at the University of California, Santa Barbara. I'm pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. I hope to have a career in spatial planning for large-scale renewable energy development. 
 
 ## Education
 
