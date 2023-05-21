@@ -1,3 +1,23 @@
+\-\--![](IMG_7739.png)
+
+```{r}
+library(here)
+```
+
 ---
-title: "beniselimonwebsite"
+
+title: "Benise Limon"
+image: (here/IMG_7739.png)
+about: 
+2  template: trestles
+3  image-shape: round
+  image-width: 23em
+4  links:
+4  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/beniselimon/
+    - text: GitHub
+      href: https://github.com/beniselimon
+    - text: Email
+      href: mailto:beniselimon@ucsb.edu
 ---
