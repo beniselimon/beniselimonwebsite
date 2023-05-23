@@ -22,4 +22,4 @@ Movement data is important to analyze to understand spatial patterns of humans o
 
 ![](suitabilitymap.png) ![](Screenshot%202023-05-20%20at%209.00.15%20PM.png)
 
-## ![](Layout.jpg)
+![](Layout.jpg)
