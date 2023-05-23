@@ -1,4 +1,19 @@
 ---
 title: "ELI"
-author: "Benise Limon"
 ---
+
+## UCSB's Environmental Leadership Incubator
+
+One passion project of mine is working on UCSB's Climate Action Program. This is my project for the Environmental Leadership Incubator (ELI).
+
+The Environmental Leadership Incubator is a nine-month program that trains undergraduate students to become environmental leaders. The ELI program is organized around student-initiated projects that seek to implement positive environmental change. It combines coursework and leadership skills training in the fall quarter, with project implementation and mentorship by real world professionals in the winter and spring quarters.
+
+## The Climate Action Program
+
+For my ELI project, I worked with another Environmental Studies undergraduate student to create UCSB's Climate Action Program (CAP). CAP is a six-week personal emissions reduction challenge for students to reduce their direct emissions from their diet, electricity consumption, water usage, and waste generation. The challenge is between UCSB campus organizations that register as teams. Individuals in each team track actions they take for sustainability on the Cool Campus Challenge website to earn points for their team and win prizes. Our hope is to inspire the UCSB community to make behavioral changes they will carry with them long after the program ends.
+
+We came up with the idea by browsing through UC Santa Barbara's climate initiatives and sustainability goals. We noticed there was a need for an incentive program to spark behavioral changes in students. In the Fall of 2022, we began planning our competition for the Spring quarter. After many mentor meetings, coffee chats, cold emailing, and outreach to student organizations, our competition began on April 17th.
+
+There are ten participating teams and over 85 participants. Participants log actions on our website and earn points depending on how carbon-saving the action is. Prizes are drawn every week including beach towels, campus store gift cards, reusable bags, a hydroflask, and more. The top winner at the end will receive a trip to the Channel Islands for them and a friend. There has been high engagement with the program and people log actions every day. The inside of the website is included below.
+
+![](Screenshot%202023-05-20%20at%2010.21.12%20PM.png)

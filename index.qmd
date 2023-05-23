@@ -13,21 +13,19 @@ about:
     - text: Email
       href: mailto:beniselimon@ucsb.edu
 ---
-## Hello! 
 
-I'm Benise Limon, an undergraduate student at the University of California, Santa Barbara. I'm pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. I hope to have a career in spatial planning for large-scale renewable energy development. 
+## Hello!
+
+I'm Benise Limon, an undergraduate student at the University of California, Santa Barbara. I'm pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. I hope to have a career in spatial planning for large-scale renewable energy development.
 
 ## Education
 
-University of California, Santa Barbara | Santa Barbara, CA
-B.S. in Environmental Studies | Aug 2020 - June 2024
-
+University of California, Santa Barbara \| Santa Barbara, CA B.S. in Environmental Studies \| Aug 2020 - June 2024
 
 ## Experience
 
-Deloitte | Incoming Sustainability & ESG Intern | Summer 2023
+Deloitte \| Incoming Sustainability & ESG Intern \| Summer 2023
 
-Santa Barbara County Air Pollution Control District | Compliance Intern | Apr 2022 - Present
+Santa Barbara County Air Pollution Control District \| Compliance Intern \| Apr 2022 - Present
 
-Environmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022
----
+## Environmental Markets Lab \| Undergraduate Researcher \| Jun 2021 - Apr 2022
