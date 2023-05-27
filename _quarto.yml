@@ -15,10 +15,12 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - styles.css
     toc: true
     page-layout: full
+    mainfont: montserrat
+
 
 editor: visual
 

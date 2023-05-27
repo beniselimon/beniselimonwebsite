@@ -1,1 +1,45 @@
 /* css styles */
+$pink: #FF1493;
+$dodgerblue: #1E90FF;
+$white: #F0F8FF;
+
+/*-- use vars in CSS rules (we'll learn more about how to write CSS soon!) --*/
+h1 {
+  font-color: $pink;
+}
+
+.button-styling {
+  background: $white;
+  color: $white; 
+  border-color: $pink;
+}
+
+/*-- scss:defaults --*/
+
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+// Colors
+$light-sage-green: #D1D9CE;
+$dark-sage-green: #98A08D;
+$cream: #FDFBF7;
+$gray: #838B8B;
+$light-gray: #949799;
+$purple: #AE8BD1;
+
+// Base document colors
+$navbar-bg: $pink; // navbar
+$navbar-fg: $dark-sage-green; // navbar foreground elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $purple; // hyperlinks 
+
+// Inline code
+$code-bg: $gray; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $gray; // code block background color
