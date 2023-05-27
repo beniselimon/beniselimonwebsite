@@ -2,7 +2,7 @@
 title: "Maps"
 ---
 
-I have always been fascinated by geography and the importance of "where". Decisions from where should I get coffee today, or where should I sit in the library, to where should I live after graduation. I find "where" intriguing because you have to consider so many factors beyond location to make the most suitable choice. For this reason, I chose to minor in Spatial Science and complete the Geographic Information Science (GIS) series offered at UC Santa Barbara. I enjoy using GIS to understand the why phenomena happens where it does.
+I have always been fascinated by geography and the importance of "where". Decisions from where should I get coffee today, or where should I sit in the library, to where should I live after graduation. I find "where" intriguing because you have to consider so many factors beyond location to make the most suitable choice. For this reason, I chose to minor in Spatial Science and complete the Geographic Information Science (GIS) series offered at UC Santa Barbara. I enjoy using GIS to understand the unique spatial component that helps answer questions.
 
 ## Suitability Analysis of a Coffee Shop in Santa Barbara
 
