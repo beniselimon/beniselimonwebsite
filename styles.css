@@ -22,6 +22,7 @@ h1 {
 
 // Colors
 $light-sage-green: #D1D9CE;
+$black: #1A1A1A;
 $dark-sage-green: #98A08D;
 $cream: #FDFBF7;
 $gray: #333333;
@@ -30,7 +31,7 @@ $purple: #AE8BD1;
 
 // Base document colors
 $navbar-bg: $pink; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
+$navbar-fg: $black; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
 $body-bg: $white; // page background 
 $body-color: $gray; // page text 
