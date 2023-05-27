@@ -3,17 +3,6 @@ $pink: #FF1493;
 $dodgerblue: #1E90FF;
 $white: #F0F8FF;
 
-/*-- use vars in CSS rules (we'll learn more about how to write CSS soon!) --*/
-h1 {
-  font-color: $pink;
-}
-
-.button-styling {
-  background: $white;
-  color: $white; 
-  border-color: $pink;
-}
-
 /*-- scss:defaults --*/
 
 // Fonts
