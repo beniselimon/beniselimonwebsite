@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "ELI.html",
+    "href": "ELI.html",
+    "title": "ELI",
+    "section": "",
+    "text": "One passion project of mine is working on UCSB’s Climate Action Program. This is my project for the Environmental Leadership Incubator (ELI).\nThe Environmental Leadership Incubator is a nine-month program that trains undergraduate students to become environmental leaders. The ELI program is organized around student-initiated projects that seek to implement positive environmental change. It combines coursework and leadership skills training in the fall quarter, with project implementation and mentorship by real world professionals in the winter and spring quarters."
+  },
+  {
+    "objectID": "ELI.html#the-climate-action-program",
+    "href": "ELI.html#the-climate-action-program",
+    "title": "ELI",
+    "section": "The Climate Action Program",
+    "text": "The Climate Action Program\nFor my ELI project, I worked with another Environmental Studies undergraduate student to create UCSB’s Climate Action Program (CAP). CAP is a six-week personal emissions reduction challenge for students to reduce their direct emissions from their diet, electricity consumption, water usage, and waste generation. The challenge is between UCSB campus organizations that register as teams. Individuals in each team track actions they take for sustainability on the Cool Campus Challenge website to earn points for their team and win prizes. Our hope is to inspire the UCSB community to make behavioral changes they will carry with them long after the program ends.\nWe came up with the idea by browsing through UC Santa Barbara’s climate initiatives and sustainability goals. We noticed there was a need for an incentive program to spark behavioral changes in students. In the Fall of 2022, we began planning our competition for the Spring quarter. After many mentor meetings, coffee chats, cold emailing, and outreach to student organizations, our competition began on April 17th.\nThere are ten participating teams and over 85 participants. Participants log actions on our website and earn points depending on how carbon-saving the action is. Prizes are drawn every week including beach towels, campus store gift cards, reusable bags, a hydroflask, and more. The top winner at the end will receive a trip to the Channel Islands for them and a friend. There has been high engagement with the program and people log actions every day. The inside of the website is included below."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Benise Limon",
     "section": "",
     "text": "I’m Benise Limon, an undergraduate student at the University of California, Santa Barbara. I’m pursuing a Bachelor of Science in Environmental Studies and a minor in Spatial Science. I hope to have a career in spatial planning for large-scale renewable energy development."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html#education",
@@ -25,7 +32,7 @@
     "href": "index.html#experience",
     "title": "Benise Limon",
     "section": "Experience",
-    "text": "Experience\nDeloitte | Incoming Sustainability & ESG Intern | Summer 2023\nSanta Barbara County Air Pollution Control District | Compliance Intern | Apr 2022 - Present"
+    "text": "Experience\nDeloitte | Incoming Sustainability & ESG Intern | Summer 2023\nSanta Barbara County Air Pollution Control District | Compliance Intern | Apr 2022 - Present\nEnvironmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022"
   },
   {
     "objectID": "maps.html",
@@ -42,13 +49,6 @@
     "text": "Suitability Analysis of a Coffee Shop in Santa Barbara\nSuitability models can help visualize optimal locations using spatial analysis. I created a suitability model using the Model Builder using a weighted sum analysis for distance to existing cafes in Santa Barbara and distance to roads. The farther away a potential site was to an existing cage, and closer it was to a road indicated the most suitable location for a cafe. In the map, the highest value was in the mountains in Santa Barbara, because it was far from the cafes and close to the roads. The three parcels with the highest values are shown in the dark purple area."
   },
   {
-    "objectID": "maps.html#visualizing-deaths-in-soho-central-london-during-the-cholera-outbreak",
-    "href": "maps.html#visualizing-deaths-in-soho-central-london-during-the-cholera-outbreak",
-    "title": "Maps",
-    "section": "Visualizing deaths in SoHo, Central London During the Cholera Outbreak",
-    "text": "Visualizing deaths in SoHo, Central London During the Cholera Outbreak\nThe spatial component of a problem can help us understand why some areas are more impacted than others. In this map, I used spatial statistics to understand the highest density of deaths and the relationship between deaths and locations of pumps. This map shows deaths are clustered around one pump, indicating this pump may be contaminated and contributing to the high death counts in the area."
-  },
-  {
     "objectID": "maps.html#spatial-statistics-for-deaths-in-soho-central-london-during-the-cholera-outbreak",
     "href": "maps.html#spatial-statistics-for-deaths-in-soho-central-london-during-the-cholera-outbreak",
     "title": "Maps",
@@ -61,33 +61,5 @@
     "title": "Maps",
     "section": "Home Range Movement Visualization",
     "text": "Home Range Movement Visualization\nMovement data is important to analyze to understand spatial patterns of humans or animals. This map visualizes the movement of a mother tiger and one young tiger and how their home ranges change and overlap as the young tiger grows older. In the first period of measured data, September to October of 2019, there was high overlap between the mother and young tiger. As the time went on, by the next set of months, November to December of 2019, The range of the mother expanded more and the young range expanded slightly. From January to February the range of the mother expanded more and she went much closer to the water and the young did not move much, the mother and young had significantly less overlap. In the last recorded period, March to April, the mother stayed closer to the water and the young moved closer to the water as well so there was more overlap than January to February but less than the data from 2019."
-  },
-  {
-    "objectID": "ELI.html",
-    "href": "ELI.html",
-    "title": "ELI",
-    "section": "",
-    "text": "One passion project of mine is working on UCSB’s Climate Action Program. This is my project for the Environmental Leadership Incubator (ELI).\nThe Environmental Leadership Incubator is a nine-month program that trains undergraduate students to become environmental leaders. The ELI program is organized around student-initiated projects that seek to implement positive environmental change. It combines coursework and leadership skills training in the fall quarter, with project implementation and mentorship by real world professionals in the winter and spring quarters."
-  },
-  {
-    "objectID": "index.html#environmental-markets-lab-undergraduate-researcher-jun-2021---apr-2022",
-    "href": "index.html#environmental-markets-lab-undergraduate-researcher-jun-2021---apr-2022",
-    "title": "Benise Limon",
-    "section": "Environmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022",
-    "text": "Environmental Markets Lab | Undergraduate Researcher | Jun 2021 - Apr 2022"
-  },
-  {
-    "objectID": "maps.html#movement-data-is-important-to-analyze-to-understand-spatial-patterns-of-humans-or-animals.-this-map-visualizes-the-movement-of-a-mother-tiger-and-one-young-tiger-and-how-their-home-ranges-change-and-overlap-as-the-young-tiger-grows-older.-in-the-first-period-of-measured-data-september-to-october-of-2019-there-was-high-overlap-between-the-mother-and-young-tiger.-as-the-time-went-on-by-the-next-set-of-months-november-to-december-of-2019-the-range-of-the-mother-expanded-more-and-the-young-range-expanded-slightly.-from-january-to-february-the-range-of-the-mother-expanded-more-and-she-went-much-closer-to-the-water-and-the-young-did-not-move-much-the-mother-and-young-had-significantly-less-overlap.-in-the-last-recorded-period-march-to-april-the-mother-stayed-closer-to-the-water-and-the-young-moved-closer-to-the-water-as-well-so-there-was-more-overlap-than-january-to-february-but-less-than-the-data-from-2019.",
-    "href": "maps.html#movement-data-is-important-to-analyze-to-understand-spatial-patterns-of-humans-or-animals.-this-map-visualizes-the-movement-of-a-mother-tiger-and-one-young-tiger-and-how-their-home-ranges-change-and-overlap-as-the-young-tiger-grows-older.-in-the-first-period-of-measured-data-september-to-october-of-2019-there-was-high-overlap-between-the-mother-and-young-tiger.-as-the-time-went-on-by-the-next-set-of-months-november-to-december-of-2019-the-range-of-the-mother-expanded-more-and-the-young-range-expanded-slightly.-from-january-to-february-the-range-of-the-mother-expanded-more-and-she-went-much-closer-to-the-water-and-the-young-did-not-move-much-the-mother-and-young-had-significantly-less-overlap.-in-the-last-recorded-period-march-to-april-the-mother-stayed-closer-to-the-water-and-the-young-moved-closer-to-the-water-as-well-so-there-was-more-overlap-than-january-to-february-but-less-than-the-data-from-2019.",
-    "title": "Maps",
-    "section": "Movement data is important to analyze to understand spatial patterns of humans or animals. This map visualizes the movement of a mother tiger and one young tiger and how their home ranges change and overlap as the young tiger grows older. In the first period of measured data, September to October of 2019, there was high overlap between the mother and young tiger. As the time went on, by the next set of months, November to December of 2019, The range of the mother expanded more and the young range expanded slightly. From January to February the range of the mother expanded more and she went much closer to the water and the young did not move much, the mother and young had significantly less overlap. In the last recorded period, March to April, the mother stayed closer to the water and the young moved closer to the water as well so there was more overlap than January to February but less than the data from 2019.",
-    "text": "Movement data is important to analyze to understand spatial patterns of humans or animals. This map visualizes the movement of a mother tiger and one young tiger and how their home ranges change and overlap as the young tiger grows older. In the first period of measured data, September to October of 2019, there was high overlap between the mother and young tiger. As the time went on, by the next set of months, November to December of 2019, The range of the mother expanded more and the young range expanded slightly. From January to February the range of the mother expanded more and she went much closer to the water and the young did not move much, the mother and young had significantly less overlap. In the last recorded period, March to April, the mother stayed closer to the water and the young moved closer to the water as well so there was more overlap than January to February but less than the data from 2019."
-  },
-  {
-    "objectID": "ELI.html#the-climate-action-program",
-    "href": "ELI.html#the-climate-action-program",
-    "title": "ELI",
-    "section": "The Climate Action Program",
-    "text": "The Climate Action Program\nFor my ELI project, I worked with another Environmental Studies undergraduate student to create UCSB’s Climate Action Program (CAP). CAP is a six-week personal emissions reduction challenge for students to reduce their direct emissions from their diet, electricity consumption, water usage, and waste generation. The challenge is between UCSB campus organizations that register as teams. Individuals in each team track actions they take for sustainability on the Cool Campus Challenge website to earn points for their team and win prizes. Our hope is to inspire the UCSB community to make behavioral changes they will carry with them long after the program ends.\nWe came up with the idea by browsing through UC Santa Barbara’s climate initiatives and sustainability goals. We noticed there was a need for an incentive program to spark behavioral changes in students. In the Fall of 2022, we began planning our competition for the Spring quarter. After many mentor meetings, coffee chats, cold emailing, and outreach to student organizations, our competition began on April 17th.\nThere are ten participating teams and over 85 participants. Participants log actions on our website and earn points depending on how carbon-saving the action is. Prizes are drawn every week including beach towels, campus store gift cards, reusable bags, a hydroflask, and more. The top winner at the end will receive a trip to the Channel Islands for them and a friend. There has been high engagement with the program and people log actions every day. The inside of the website is included below."
   }
 ]
